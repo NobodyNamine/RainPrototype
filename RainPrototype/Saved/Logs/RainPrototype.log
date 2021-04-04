@@ -990,3 +990,187 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.04-18.25.34:856][138]AssetCheck: New page: Asset Save: multiple assets
 [2021.04.04-18.25.34:856][138]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2021.04.04-18.25.34:856][138]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.04.04-18.29.20:552][330]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.04-18.29.20:552][330]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.04-18.29.20:553][330]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.04-18.29.20:553][330]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.04-18.29.20:580][330]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.04-18.29.20:609][330]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.04-18.29.20:624][330]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.04-18.29.20:624][330]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.04-18.29.20:626][330]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.04-18.29.20:656][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.04.04-18.29.20:687][331]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.04.04-18.29.30:655][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.04.04-18.29.48:486][ 85]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2021.04.04-18.29.48:502][ 85]LogContentBrowser: Creating deferred item: NewMaterial
+[2021.04.04-18.29.57:298][ 95]LogContentBrowser: Attempting asset rename: NewMaterial -> WaterRipples
+[2021.04.04-18.29.57:298][ 95]LogContentBrowser: End creating deferred item NewMaterial
+[2021.04.04-18.29.58:918][210]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/WaterRipples.WaterRipples
+[2021.04.04-18.29.58:919][210]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MaterialEditor' in 0.0003 seconds. Added 3 classes and 0 folders.
+[2021.04.04-18.29.58:920][210]LogMaterial: Display: Missing cached shader map for material WaterRipples, compiling. 
+[2021.04.04-18.29.59:232][210]LogMaterial: Display: Missing cached shader map for material WaterRipples, compiling. 
+[2021.04.04-18.29.59:239][210]LogMaterial: Display: Missing cached shader map for material WaterRipples, compiling. 
+[2021.04.04-18.29.59:252][210]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.04.04-18.29.59:252][210]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.04.04-18.29.59:252][210]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2021.04.04-18.29.59:273][210]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.04.04-18.30.04:370][530]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2021.04.04-18.30.04:577][547]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.04.04-18.30.06:517][692]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2021.04.04-18.30.07:101][732]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.04.04-18.30.07:714][786]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2021.04.04-18.30.08:796][868]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.04.04-18.30.12:041][113]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.04.04-18.30.12:041][113]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.04.04-18.30.12:041][113]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.04.04-18.30.12:042][113]MaterialEditorStats: Texture samplers: 2/16
+[2021.04.04-18.30.12:215][126]LogMaterial: Display: Missing cached shader map for material WaterRipples, compiling. 
+[2021.04.04-18.30.12:232][127]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.04.04-18.30.12:232][127]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.04.04-18.30.12:232][127]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2021.04.04-18.30.15:001][299]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2021.04.04-18.30.16:438][391]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.04.04-18.30.17:026][443]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.04.04-18.30.21:034][721]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2021.04.04-18.30.21:034][721]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2021.04.04-18.30.22:552][822]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.04.04-18.30.30:186][326]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.04.04-18.30.30:186][326]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.04.04-18.30.30:186][326]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.04.04-18.30.30:186][326]MaterialEditorStats: Texture samplers: 2/16
+[2021.04.04-18.40.11:688][687]LogMaterialEditor: Saving and Compiling material WaterRipples
+[2021.04.04-18.40.11:726][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/WaterRipples" FILE="../../../../../../Users/shubh/source/repos/RainPrototype/RainPrototype/Content/Materials/WaterRipples.uasset" SILENT=true
+[2021.04.04-18.40.11:734][687]LogSavePackage: Moving '../../../../../../Users/shubh/source/repos/RainPrototype/RainPrototype/Saved/WaterRipplesB4D912D14B0D0B096DA0A3AD3BEE2F6A.tmp' to '../../../../../../Users/shubh/source/repos/RainPrototype/RainPrototype/Content/Materials/WaterRipples.uasset'
+[2021.04.04-18.40.11:746][687]AssetCheck: New page: Asset Save: WaterRipples
+[2021.04.04-18.40.11:746][687]LogContentValidation: Display: Validating Material /Game/Materials/WaterRipples.WaterRipples
+[2021.04.04-18.40.41:755][ 58]LogParticles: Warning: MaxCount =  516 for Emitter ParticleSpriteEmitter_0 (/Game/Particles/RainParticleSystem.RainParticleSystem)
+[2021.04.04-18.40.59:655][439]LogParticles: Warning: MaxCount =  516 for Emitter ParticleSpriteEmitter_0 (/Game/Particles/RainParticleSystem.RainParticleSystem)
+[2021.04.04-18.40.59:657][439]LogParticles: Warning: MaxCount =  516 for Emitter ParticleSpriteEmitter_0 (/Game/Particles/RainParticleSystem.RainParticleSystem)
+[2021.04.04-18.40.59:681][441]LogParticles: Warning: MaxCount =  516 for Emitter ParticleSpriteEmitter_0 (/Game/Particles/RainParticleSystem.RainParticleSystem)
+[2021.04.04-18.40.59:696][442]LogParticles: Warning: MaxCount =  516 for Emitter ParticleSpriteEmitter_0 (/Game/Particles/RainParticleSystem.RainParticleSystem)
+[2021.04.04-18.40.59:724][444]LogParticles: Warning: MaxCount =  516 for Emitter ParticleSpriteEmitter_0 (/Game/Particles/RainParticleSystem.RainParticleSystem)
+[2021.04.04-18.40.59:738][445]LogParticles: Warning: MaxCount =  516 for Emitter ParticleSpriteEmitter_0 (/Game/Particles/RainParticleSystem.RainParticleSystem)
+[2021.04.04-18.40.59:753][446]LogParticles: Warning: MaxCount =  516 for Emitter ParticleSpriteEmitter_0 (/Game/Particles/RainParticleSystem.RainParticleSystem)
+[2021.04.04-18.40.59:755][446]LogParticles: Warning: MaxCount =  516 for Emitter ParticleSpriteEmitter_0 (/Game/Particles/RainParticleSystem.RainParticleSystem)
+[2021.04.04-18.40.59:772][447]LogParticles: Warning: MaxCount =  516 for Emitter ParticleSpriteEmitter_0 (/Game/Particles/RainParticleSystem.RainParticleSystem)
+[2021.04.04-18.40.59:774][447]LogParticles: Warning: MaxCount =  516 for Emitter ParticleSpriteEmitter_0 (/Game/Particles/RainParticleSystem.RainParticleSystem)
+[2021.04.04-18.40.59:794][448]LogParticles: Warning: MaxCount =  516 for Emitter ParticleSpriteEmitter_0 (/Game/Particles/RainParticleSystem.RainParticleSystem)
+[2021.04.04-18.40.59:796][448]LogParticles: Warning: MaxCount =  516 for Emitter ParticleSpriteEmitter_0 (/Game/Particles/RainParticleSystem.RainParticleSystem)
+[2021.04.04-18.40.59:808][449]LogParticles: Warning: MaxCount =  516 for Emitter ParticleSpriteEmitter_0 (/Game/Particles/RainParticleSystem.RainParticleSystem)
+[2021.04.04-18.40.59:811][449]LogParticles: Warning: MaxCount =  516 for Emitter ParticleSpriteEmitter_0 (/Game/Particles/RainParticleSystem.RainParticleSystem)
+[2021.04.04-18.40.59:826][450]LogParticles: Warning: MaxCount =  516 for Emitter ParticleSpriteEmitter_0 (/Game/Particles/RainParticleSystem.RainParticleSystem)
+[2021.04.04-18.40.59:828][450]LogParticles: Warning: MaxCount =  516 for Emitter ParticleSpriteEmitter_0 (/Game/Particles/RainParticleSystem.RainParticleSystem)
+[2021.04.04-18.41.00:364][491]LogParticles: Warning: MaxCount =  516 for Emitter ParticleSpriteEmitter_0 (/Game/Particles/RainParticleSystem.RainParticleSystem)
+[2021.04.04-18.41.04:204][788]LogParticles: Warning: MaxCount =  516 for Emitter ParticleSpriteEmitter_0 (/Game/Particles/RainParticleSystem.RainParticleSystem)
+[2021.04.04-18.41.07:986][ 87]LogParticles: Warning: MaxCount =  516 for Emitter ParticleSpriteEmitter_0 (/Game/Particles/RainParticleSystem.RainParticleSystem)
+[2021.04.04-18.41.09:177][176]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particles/RainParticleSystem" FILE="../../../../../../Users/shubh/source/repos/RainPrototype/RainPrototype/Content/Particles/RainParticleSystem.uasset" SILENT=true
+[2021.04.04-18.41.09:184][176]LogSavePackage: Moving '../../../../../../Users/shubh/source/repos/RainPrototype/RainPrototype/Saved/RainParticleSystem063E2BAB47A0A4712B1DC7956330D031.tmp' to '../../../../../../Users/shubh/source/repos/RainPrototype/RainPrototype/Content/Particles/RainParticleSystem.uasset'
+[2021.04.04-18.41.09:196][176]AssetCheck: New page: Asset Save: RainParticleSystem
+[2021.04.04-18.41.09:196][176]LogContentValidation: Display: Validating ParticleSystem /Game/Particles/RainParticleSystem.RainParticleSystem
+[2021.04.04-18.41.16:503][750]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.04-18.41.16:509][750]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.04-18.41.16:509][750]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 4, 2021, 10:41:16 AM)
+[2021.04.04-18.41.16:509][750]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.04-18.41.16:523][750]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013913s)
+[2021.04.04-18.41.16:524][750]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.04.04-18.41.16:525][750]LogPlayLevel: PIE: World Init took: (0.001518s)
+[2021.04.04-18.41.16:525][750]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015574s)
+[2021.04.04-18.41.16:549][750]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.04.04-18.41.16:552][750]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.04.04-18.41.16:552][750]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.04-18.41.16:552][750]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.04-18.41.16:552][750]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.04-18.41.16:552][750]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.04-18.41.16:552][750]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.04-18.41.16:552][750]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.04-18.41.16:552][750]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.04-18.41.16:552][750]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.04-18.41.16:552][750]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.04-18.41.16:552][750]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.04-18.41.16:555][750]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.04-18.41.16:555][750]LogAudioMixer: Display: 1: FrontRight
+[2021.04.04-18.41.16:672][750]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2021.04.04-18.41.16:672][750]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.04-18.41.16:672][750]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.04-18.41.16:672][750]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.04-18.41.16:673][750]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.04-18.41.16:673][750]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.04-18.41.16:673][750]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.04-18.41.16:692][750]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.04-18.41.16:692][750]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.04-18.41.16:692][750]LogInit: FAudioDevice initialized.
+[2021.04.04-18.41.16:692][750]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonExampleMap'.
+[2021.04.04-18.41.16:705][750]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.04-18.41.16:708][750]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.04.04-14.41.16
+[2021.04.04-18.41.16:708][750]LogWorld: Bringing up level for play took: 0.001981
+[2021.04.04-18.41.16:708][750]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.04.04-18.41.16:711][750]PIE: Server logged in
+[2021.04.04-18.41.16:712][750]PIE: Play in editor total start time 0.203 seconds.
+[2021.04.04-18.41.48:295][ 32]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.04-18.41.48:295][ 32]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.04-18.41.48:296][ 32]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.04-18.41.48:296][ 32]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.04-18.41.48:314][ 32]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.04-18.41.48:345][ 32]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.04-18.41.48:363][ 32]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.04-18.41.48:364][ 32]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.04-18.41.48:366][ 32]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.04-18.41.48:419][ 32]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.04-18.41.48:424][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.04.04-18.41.48:485][ 33]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.04.04-18.42.03:709][549]LogParticles: Warning: MaxCount =  516 for Emitter ParticleSpriteEmitter_0 (/Game/Particles/RainParticleSystem.RainParticleSystem)
+[2021.04.04-18.42.04:348][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Particles/RainParticleSystem" FILE="../../../../../../Users/shubh/source/repos/RainPrototype/RainPrototype/Content/Particles/RainParticleSystem.uasset" SILENT=true
+[2021.04.04-18.42.04:365][567]LogSavePackage: Moving '../../../../../../Users/shubh/source/repos/RainPrototype/RainPrototype/Saved/RainParticleSystemBFCE3610467A00A1927C619BECACB898.tmp' to '../../../../../../Users/shubh/source/repos/RainPrototype/RainPrototype/Content/Particles/RainParticleSystem.uasset'
+[2021.04.04-18.42.04:411][567]AssetCheck: New page: Asset Save: RainParticleSystem
+[2021.04.04-18.42.04:411][567]LogContentValidation: Display: Validating ParticleSystem /Game/Particles/RainParticleSystem.RainParticleSystem
+[2021.04.04-18.42.10:987][949]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.04-18.42.10:996][949]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.04-18.42.10:996][949]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 4, 2021, 10:42:10 AM)
+[2021.04.04-18.42.11:040][949]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.04-18.42.11:054][949]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013485s)
+[2021.04.04-18.42.11:055][949]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.04.04-18.42.11:055][949]LogPlayLevel: PIE: World Init took: (0.001484s)
+[2021.04.04-18.42.11:055][949]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015174s)
+[2021.04.04-18.42.11:063][949]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2021.04.04-18.42.11:065][949]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.04.04-18.42.11:065][949]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.04-18.42.11:065][949]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.04-18.42.11:065][949]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.04-18.42.11:065][949]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.04-18.42.11:065][949]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.04-18.42.11:065][949]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.04-18.42.11:065][949]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.04-18.42.11:065][949]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.04-18.42.11:066][949]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.04-18.42.11:066][949]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.04-18.42.11:069][949]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.04-18.42.11:069][949]LogAudioMixer: Display: 1: FrontRight
+[2021.04.04-18.42.11:162][949]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2021.04.04-18.42.11:162][949]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.04-18.42.11:162][949]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.04-18.42.11:162][949]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.04-18.42.11:163][949]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.04-18.42.11:163][949]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.04-18.42.11:163][949]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.04-18.42.11:195][949]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.04-18.42.11:195][949]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.04-18.42.11:195][949]LogInit: FAudioDevice initialized.
+[2021.04.04-18.42.11:195][949]LogAudio: Display: Audio Device (ID: 6) registered with world 'ThirdPersonExampleMap'.
+[2021.04.04-18.42.11:209][949]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.04-18.42.11:211][949]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.04.04-14.42.11
+[2021.04.04-18.42.11:212][949]LogWorld: Bringing up level for play took: 0.002269
+[2021.04.04-18.42.11:212][949]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.04.04-18.42.11:215][949]PIE: Server logged in
+[2021.04.04-18.42.11:215][949]PIE: Play in editor total start time 0.221 seconds.
+[2021.04.04-18.43.02:971][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.04-18.43.02:972][ 52]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.04-18.43.02:972][ 52]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.04-18.43.02:972][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.04-18.43.02:981][ 52]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.04-18.43.02:994][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.04-18.43.03:001][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.04-18.43.03:001][ 52]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.04-18.43.03:003][ 52]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.04-18.43.03:028][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.04.04-18.43.03:061][ 53]LogPlayLevel: Display: Destroying online subsystem :Context_9
